@@ -3,4 +3,4 @@ My Hackerrank solutions in JavaScript.
 
 Bit Manipulation 
 
-1) Flipping bits[Easy]                            [Solution](./Bit Manipulation/flippingBits.js)
+Flipping Bits                  [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/flippingBits.js)
