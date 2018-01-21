@@ -1,4 +1,4 @@
-# hackerrankSolutions
+# hackerrankSolutions-JavaScript
 My Hackerrank solutions in JavaScript. 
 
 Bit Manipulation 
