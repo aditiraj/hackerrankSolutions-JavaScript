@@ -1,2 +1,2 @@
 # hackerrankSolutions
-my hackerrank solutions
+My Hackerrank solutions in JavaScript. 
