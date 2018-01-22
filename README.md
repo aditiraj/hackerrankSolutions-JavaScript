@@ -9,5 +9,4 @@ BIT MANIPULATION
 
 IMPLEMENTATION
 
-1.Picking Numbers [Easy]                                                                 [Solution]
-(https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/pickingNumbers.js)
+1.Picking Numbers [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/pickingNumbers.js)
