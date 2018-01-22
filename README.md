@@ -7,6 +7,13 @@ BIT MANIPULATION
 2. Sansa and XOR [Medium]                                                                [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/sansaAndXor.js)
 
 
+
 IMPLEMENTATION
 
 1. Picking Numbers [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/pickingNumbers.js)
+
+
+
+STRINGS
+
+1. The Love-Letter Mystery [Easy]                                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/theLove-LetterMystery.js)        
