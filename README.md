@@ -1,7 +1,13 @@
 # hackerrankSolutions-JavaScript
 My Hackerrank solutions in JavaScript. 
 
-Bit Manipulation 
+BIT MANIPULATION 
 
 1. Flipping Bits [Easy]                                                                  [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/flippingBits.js)
 2. Sansa and XOR [Medium]                                                                [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/sansaAndXor.js)
+
+
+IMPLEMENTATION
+
+1.Picking Numbers [Easy]                                                                 [Solution]
+(https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/pickingNumbers.js)
