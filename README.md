@@ -22,3 +22,8 @@ IMPLEMENTATION
 STRINGS
 
 1. The Love-Letter Mystery [Easy]                                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/theLove-LetterMystery.js)        
+
+
+
+SORTING
+1. Lily's Homework [Medium]                                                               [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Sorting/lily'sHomework.js)
