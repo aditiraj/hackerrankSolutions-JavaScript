@@ -10,7 +10,7 @@ BIT MANIPULATION
 WARMUP
 
 1. Simple Array Sum [Easy]                                                              [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/simpleArraySum.js)
-
+2. Compare The Triplets [Easy]                                                          [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/compareTheTriplets.js)
 
 
 IMPLEMENTATION
