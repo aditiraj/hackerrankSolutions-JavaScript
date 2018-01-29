@@ -22,7 +22,7 @@ IMPLEMENTATION
 STRINGS
 
 1. The Love-Letter Mystery [Easy]                                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/theLove-LetterMystery.js)        
-
+2. Game of Thrones - I [Easy]                                                             [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/gameOfThrones-I.js)
 
 
 SORTING
