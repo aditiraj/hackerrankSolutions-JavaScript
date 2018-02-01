@@ -1,12 +1,6 @@
 # hackerrankSolutions-JavaScript
 My Hackerrank solutions in JavaScript. 
 
-BIT MANIPULATION 
-
-1. Flipping Bits [Easy]                                                                  [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/flippingBits.js)
-2. Sansa and XOR [Medium]                                                                [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/sansaAndXor.js)
-
-
 WARMUP
 
 1. Simple Array Sum [Easy]                                                              [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/simpleArraySum.js)
@@ -16,7 +10,7 @@ WARMUP
 IMPLEMENTATION
 
 1. Picking Numbers [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/pickingNumbers.js)
-
+2. Minimum Distances [Easy]                                                               [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/minimumDistances.js)
 
 
 STRINGS
@@ -27,8 +21,16 @@ STRINGS
 
 
 SORTING
+
 1. Lily's Homework [Medium]                                                               [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Sorting/lily'sHomework.js)
 
 
 GREEDY
+
 1. Minimum Absolute Difference in an Array [Easy]                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Greedy/minAbsDiffInArray.js)
+
+
+BIT MANIPULATION 
+
+1. Flipping Bits [Easy]                                                                  [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/flippingBits.js)
+2. Sansa and XOR [Medium]                                                                [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/sansaAndXor.js)
