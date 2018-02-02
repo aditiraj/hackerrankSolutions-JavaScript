@@ -30,6 +30,11 @@ GREEDY
 1. Minimum Absolute Difference in an Array [Easy]                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Greedy/minAbsDiffInArray.js)
 
 
+GRAPH THEORY
+
+1. Roads and Libraries [Medium]                                                           [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Graph%20Theory/roadsAndLibraries.js)
+
+
 BIT MANIPULATION 
 
 1. Flipping Bits [Easy]                                                                  [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/flippingBits.js)
