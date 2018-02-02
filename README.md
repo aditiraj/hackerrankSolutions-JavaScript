@@ -18,6 +18,7 @@ STRINGS
 1. The Love-Letter Mystery [Easy]                                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/theLove-LetterMystery.js)        
 2. Game of Thrones - I [Easy]                                                             [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/gameOfThrones-I.js)
 3. Making Anagrams [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/makingAnagrams.js)
+4. Anagram [Easy]                                                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/anagram.js)
 
 
 SORTING
