@@ -6,6 +6,7 @@ WARMUP
 1. Simple Array Sum [Easy]                                                              [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/simpleArraySum.js)
 2. Compare The Triplets [Easy]                                                          [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/compareTheTriplets.js)
 3. Diagonal Difference [Easy]                                                           [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/diagonalDifference.js)
+4. A Very Big Sum [Easy]                                                                [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/aVeryBigSum.js)
 
 
 IMPLEMENTATION
