@@ -13,7 +13,7 @@ IMPLEMENTATION
 
 1. Picking Numbers [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/pickingNumbers.js)
 2. Minimum Distances [Easy]                                                               [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/minimumDistances.js)
-3. Designer PDF Viewer [Easy]                                                             [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/pickingNumbers.js)
+3. Designer PDF Viewer [Easy]                                                             [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/designerPDFViewer.js)
 
 
 STRINGS
