@@ -1,4 +1,6 @@
 function designerPdfViewer(h, word) {
+    /*Create an object with all alphabets as the key and their height as the value. Find the maximum height and multiply it with the length
+      of the word. */
     var obj= new Object();
     var code= 97;
     var maxHeight=0; 
