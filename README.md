@@ -8,6 +8,7 @@ WARMUP
 3. Diagonal Difference [Easy]                                                           [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/diagonalDifference.js)
 4. A Very Big Sum [Easy]                                                                [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/aVeryBigSum.js)
 5. Birthday Cake Candles [Easy]                                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/birthdayCakeCandles.js)
+6. Time Conversion [Easy]                                                               [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Warmup/timeConversion.js)
 
 
 IMPLEMENTATION
