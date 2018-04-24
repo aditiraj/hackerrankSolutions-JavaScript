@@ -38,6 +38,11 @@ GREEDY
 1. Minimum Absolute Difference in an Array [Easy]                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Greedy/minAbsDiffInArray.js)
 
 
+DYNAMIC PROGRAMMING
+
+1. Fibonacci Modified [Medium]                                                            [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Dynamic%20Programming/fibonacciModified.js)
+
+
 GRAPH THEORY
 
 1. Roads and Libraries [Medium]                                                           [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Graph%20Theory/roadsAndLibraries.js)
