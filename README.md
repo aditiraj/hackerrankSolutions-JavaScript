@@ -25,7 +25,7 @@ STRINGS
 3. Making Anagrams [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/makingAnagrams.js)
 4. Anagram [Easy]                                                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/anagram.js)
 5. Two Strings [Easy]                                                                     [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/twoStrings.js)
-
+6. Strong Password [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Strings/strongPassword.js)
 
 SORTING
 
