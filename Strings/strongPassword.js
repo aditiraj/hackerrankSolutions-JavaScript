@@ -1,8 +1,8 @@
 
 function minimumNumber(n, password) {
-    // Find the missing must have characters in the password and return it if by adding them the resulting password length is 
+    /* Find the missing must have characters in the password and return it if by adding them the resulting password length is 
        greater than or equal to 6 else if the password length is still less than 6 characters then return the no. of missing must
-       have characetrs along with the no. of characters to be added to make the password length equal to 6.
+       have characetrs along with the no. of characters to be added to make the password length equal to 6.*/
     var upperCaseChar=0;
     var lowerCaseChar=0;
     var specialChar=0;
