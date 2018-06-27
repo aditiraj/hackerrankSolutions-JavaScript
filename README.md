@@ -33,6 +33,7 @@ SORTING
 
 1. Lily's Homework [Medium]                                                               [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Sorting/lily'sHomework.js)
 2. Big Sorting [Easy]                                                                     [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Sorting/bigSorting.js)
+3. Intro to Tutorial Challenges [Easy]                                                    [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Sorting/introToTutorialChallenges.js)
 
 SEARCH
 
