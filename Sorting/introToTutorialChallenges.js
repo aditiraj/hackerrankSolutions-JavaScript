@@ -1,5 +1,5 @@
 function processData(v,n,ar){
-// indexOf return the index of the element.
+// indexOf returns the index of the element.
     var index=ar.indexOf(v);
     return index;
 }
