@@ -38,6 +38,7 @@ SORTING
 SEARCH
 
 1. Ice Cream Parlor [Easy]                                                                [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Search/iceCreamParlor.js)
+2. Missing Numbers [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Search/missingNumbers.js)
 
 GREEDY
 
