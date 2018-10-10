@@ -1,0 +1,86 @@
+/*
+Random Character id
+
+Create a Javascript function, which  generates a random character id comprising of alphabets and numbers for given input length.
+Hint: Return the generated random character id in the function stringGen().
+
+Given HTML Code:
+<html>  
+<body>  
+<div>  
+Enter the length of character: 
+<input type='text' id="num">  
+<button onclick="stringGen()">submit</button> 
+<p id="result"></p>
+</div> 
+<script type="text/javascript" src="index.js"></SCRIPT> 
+</body>  
+</html>
+
+Given JS Code: 
+function stringGen()
+{
+   //Type your code here.
+    return //Enter your return statement 
+}
+*/
+-------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<div>  
+Enter the length of character: 
+<input type='text' id="num">  
+<button onclick="stringGen()">submit</button> 
+<p id="result"></p>
+</div> 
+
+<script>
+
+function stringGen()
+{
+   //Type your code here.
+  var len= document.getElementById("num").value; 
+  var text = "";
+  var alpCount=0;
+  var digCount=0;
+  var charList = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+for(var i=0; i < len; i++ )
+{  
+text += charList.charAt(Math.floor(Math.random() * charList.length));
+
+//Count the presence of digits and alphabets.
+if(text.charAt(i)>=0&&text.charAt(i)<=9){
+  digCount++;
+ }
+else{
+  alpCount++;
+  }
+}
+
+//If the  generated charcterId doesn't contain any number or any aplhabet, insert one because it should contain both.
+if(digCount==0){
+var randNum= Math.floor(Math.random()*10);
+//Insert any random number at the last position(or position of your choice).
+var finText= text.replace(text.charAt(text.length-1),randNum);
+document.getElementById("result").innerHTML = finText;
+return finText;
+}
+else if(alpCount==0){
+var randNum= Math.floor(Math.random() * (90 - 65 + 1) ) + 65;
+//Insert any random alphabet(small or capital letter as per your choice) at the last position(or position of your choice).
+var finText= text.replace(text.charAt(text.length-1),String.fromCharCode(randNum));
+document.getElementById("result").innerHTML = finText;
+return finText;
+}
+else{
+document.getElementById("result").innerHTML = text;
+return text;
+}
+}
+</script>
+</body>
+</html> 
+
