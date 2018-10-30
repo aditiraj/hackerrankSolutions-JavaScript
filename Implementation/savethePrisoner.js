@@ -1,5 +1,4 @@
 function saveThePrisoner(n, m, s){
-    // Complete this function
    var id;
     id= s+(m-1);   
     if(id>n){
