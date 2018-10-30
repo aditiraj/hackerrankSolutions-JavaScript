@@ -62,3 +62,13 @@ BIT MANIPULATION
 
 1. Flipping Bits [Easy]                                                                  [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/flippingBits.js)
 2. Sansa and XOR [Medium]                                                                [Solution](https://github.com/aditiraj/hackerrankSolutions/blob/master/Bit%20Manipulation/sansaAndXor.js)
+-------------------------------------------------------------------------------------------------
+
+10 DAYS OF JAVASCRIPT
+
+DAY 0:
+1. Hello World! [Easy]           [Solution]() 
+2. Data Types [Easy]             [Solution]()
+
+
+
