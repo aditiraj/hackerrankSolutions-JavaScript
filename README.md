@@ -67,8 +67,8 @@ BIT MANIPULATION
 10 DAYS OF JAVASCRIPT
 
 DAY 0:
-1. Hello World! [Easy]           [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/10%20Days%20of%20Javascript/helloWorld.js) 
-2. Data Types [Easy]             [Solution]()
+1. Hello World! [Easy]                                                                   [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/10%20Days%20of%20Javascript/helloWorld.js) 
+2. Data Types [Easy]                                                                     [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/10%20Days%20of%20Javascript/dataTypes.js)
 
 
 
