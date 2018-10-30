@@ -18,6 +18,7 @@ IMPLEMENTATION
 3. Designer PDF Viewer [Easy]                                                             [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/designerPDFViewer.js)
 4. Sequence Equation [Easy]                                                               [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/sequenceEquation.js)
 5. Jumping on the Clouds: Revisited [Easy]                                                [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/jumpingOnTheCloudsRevisited.js)
+6. Encryption [Medium] .                                                                  [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/encryption.js)
 
 STRINGS
 
