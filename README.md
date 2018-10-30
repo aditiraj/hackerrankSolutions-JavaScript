@@ -19,6 +19,7 @@ IMPLEMENTATION
 4. Sequence Equation [Easy]                                                               [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/sequenceEquation.js)
 5. Jumping on the Clouds: Revisited [Easy]                                                [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/jumpingOnTheCloudsRevisited.js)
 6. Encryption [Medium]                                                                   [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/encryption.js)
+7. Save The Prisoner! [Easy]                                                             [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/savethePrisoner.js)
 
 STRINGS
 
