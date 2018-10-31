@@ -46,6 +46,7 @@ GREEDY
 
 1. Minimum Absolute Difference in an Array [Easy]                                         [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Greedy/minAbsDiffInArray.js)
 2. Marc's Cakewalk [Easy]                                                                 [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Greedy/marc'sCakewalk.js)
+3. Grid Challenge [Easy]                                                                  [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Greedy/gridChallenge.js)
 
 
 DYNAMIC PROGRAMMING
