@@ -59,6 +59,7 @@ DYNAMIC PROGRAMMING
 GRAPH THEORY
 
 1. Roads and Libraries [Medium]                                                           [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Graph%20Theory/roadsAndLibraries.js)
+2. Breadth First Search [Medium]                                                          [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Graph%20Theory/breadthFirstSearch.js)
 
 
 BIT MANIPULATION 
