@@ -21,6 +21,7 @@ IMPLEMENTATION
 6. Encryption [Medium]                                                                   [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/encryption.js)
 7. Save The Prisoner! [Easy]                                                             [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/savethePrisoner.js)
 8. Extra Long Factorials [Medium]                                                        [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/extraLongFactorials.js)
+9. The Time in Words [Medium]                                                            [Solution](https://github.com/aditiraj/hackerrankSolutions-JavaScript/blob/master/Implementation/theTimeInWords.js)
 
 STRINGS
 
